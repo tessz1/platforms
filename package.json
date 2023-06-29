@@ -1,0 +1,19 @@
+{
+  "name": "@tessz1/platforms",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tessz1/platforms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tessz1/platforms/issues"
+  },
+  "homepage": "https://github.com/tessz1/platforms#readme"
+}
